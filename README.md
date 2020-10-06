@@ -5,7 +5,7 @@ I am pursuing a Bachelor's of Technology in computer science engineering from RC
 Skills: Html, css, javascript,bootstrap 4, nodejs,php,DS
 
 - 🔭 I’m currently working on nodejs project 
-
+### I am looking for collabration for ML projects if you want to collab contact me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyush2040)  
 
