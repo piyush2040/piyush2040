@@ -18,3 +18,11 @@ Skills: Html, css, javascript,bootstrap 4, nodejs,php,DS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush2040&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/piyush2040)  
+<h3><strong>connect with me!</strong></h3><br><br>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/piyush-kumar-50559719a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Piyush kumar" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100029713804370" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="piyush kumar" height="30" width="30" /></a>
+<a href="https://instagram.com/piyushkumar3644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="piyushkumar3644" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/c0dethug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="c0dethug" height="30" width="30" /></a>
+</p>
