@@ -2,7 +2,7 @@
 #### I am Full stack web developer.
 I am pursuing a Bachelor's of Technology in Information technology from RCC Institute of Technology.
 
-Skills: Html, css, javascript,jquery,bootstrap 4, nodejs,php,DS
+Skills: Html, css, javascript,jquery,bootstrap 4,php,DS
 
 - 🔭 I’m currently working on react project 
 ### I am looking for collabration for react/redux projects if you want to collab contact me
