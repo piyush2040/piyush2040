@@ -1,13 +1,8 @@
 ### Hi there 👋, My name is Piyush Kumar
 #### I am Full stack web developer.
-I am pursuing a Bachelor's of Technology in Information technology from RCC Institute of Technology.
-
-Skills: Html, css, javascript,jquery,bootstrap 4,php,DS
-
-- 🔭 I’m currently working on react project 
-### I am looking for collabration for react/redux projects if you want to collab contact me
-### I am currently exploring cloud computing using aws service.
-
+I have completed a Bachelor's of Technology in Information technology from RCC Institute of Technology.
+I am working at Persistent Systems as a Software Engineer.
+Skills: .net Framework,Microsoft SqlServer, .net core web api, .net core mvc, ado.net
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyush2040)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a><a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a><a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
