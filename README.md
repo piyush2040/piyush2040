@@ -67,39 +67,7 @@ CodeChef                -  [Check out!](https://www.codechef.com/users/codethug)
 
 ### My Projects ✨:
   
-<a href="https://github.com/piyush2040/BlogpostApplication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2040&repo=BlogpostApplication&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/piyush2040/CourseRestApi">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2040&repo=CourseRestApi&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/piyush2040/FlappyBird-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2040&repo=FlappyBird-Game&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/piyush2040/ModernBanking-Management-System">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2040&repo=ModernBanking-Management-System&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/piyush2040/Unityforlife">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2040&repo=Unityforlife&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/piyush2040/Todo-app.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2040&repo=Todo-app&theme=tokyonight" />
-</a>
-
-
-<a href="https://github.com/piyush2040/JPMorganChase-Virtual-Internship.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2040&repo=JPMorganChase-Virtual-Internship&theme=tokyonight" />
-</a>
-
-
-<a href="https://github.com/piyush2040/ML_Algorithm_Cord.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2040&repo=ML_Algorithm_Cord&theme=tokyonight" />
-</a>
 
 
 
