@@ -1,7 +1,7 @@
 <h1 align="center">Hi there It's me Piyush Kumar👋</h1>
 <h3 align="center">A passionate software Engineer From India</h3>
 
-![Downloads](https://img.shields.io/github/downloads/piyush2040/total) ![Contributors](https://img.shields.io/github/contributors/piyush2040/piyush2040?color=dark-green) ![Forks](https://img.shields.io/github/forks/piyush2040/piyush2040?style=social) ![Stargazers](https://img.shields.io/github/stars/piyush2040/piyush2040?style=social) ![Issues](https://img.shields.io/github/issues/piyush2040/piyush2040) ![License](https://img.shields.io/github/license/piyush2040/piyush2040) 
+(https://img.shields.io/github/forks/piyush2040/piyush2040?style=social) ![Stargazers](https://img.shields.io/github/stars/piyush2040/piyush2040?style=social) ![Issues](https://img.shields.io/github/issues/piyush2040/piyush2040) ![License](https://img.shields.io/github/license/piyush2040/piyush2040) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush2040" alt="piyush2040" /> </p>
 
@@ -57,12 +57,9 @@ CodeChef                -  [Check out!](https://www.codechef.com/users/codethug)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyush2040)  
 
-![GitHub metrics](https://metrics.lecoq.io/piyush2040)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyush2040)  
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=piyush2040) 
 
 
 ### My Projects ✨:
