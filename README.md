@@ -1,7 +1,7 @@
 <h1 align="center">Hi there It's me Piyush Kumar👋</h1>
 <h3 align="center">A passionate software Engineer From India</h3>
 
-(https://img.shields.io/github/forks/piyush2040/piyush2040?style=social) ![Stargazers](https://img.shields.io/github/stars/piyush2040/piyush2040?style=social) ![Issues](https://img.shields.io/github/issues/piyush2040/piyush2040) ![License](https://img.shields.io/github/license/piyush2040/piyush2040) 
+![Downloads](https://img.shields.io/github/downloads/piyush2040/piyush2040/total) ![Contributors](https://img.shields.io/github/contributors/piyush2040/piyush2040?color=dark-green) ![Forks](https://img.shields.io/github/forks/piyush2040/piyush2040?style=social) ![Stargazers](https://img.shields.io/github/stars/piyush2040/piyush2040?style=social) ![Issues](https://img.shields.io/github/issues/piyush2040/piyush2040) ![License](https://img.shields.io/github/license/piyush2040/piyush2040) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush2040" alt="piyush2040" /> </p>
 
